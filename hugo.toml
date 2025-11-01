@@ -1,0 +1,38 @@
+baseURL = "https://smartgearhub.netlify.app/"
+languageCode = "es"
+title = "SmartGearHub"
+theme = "PaperMod"
+pagerSize = 10
+
+[params]
+  description = "SmartGearHub: tu guía confiable para comparar tecnología, gadgets inteligentes y soluciones de energía moderna."
+  keywords = ["tecnología", "gadgets", "reseñas", "comparativas", "hogar inteligente", "routers", "energía solar"]
+  author = "SmartGearHub"
+  defaultTheme = "light"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  comments = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Reseñas"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Comparativas"
+  url = "/tags/comparativa/"
+  weight = 3
+
+[[menu.main]]
+  name = "Guías"
+  url = "/tags/guia/"
+  weight = 4
