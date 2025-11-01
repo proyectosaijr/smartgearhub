@@ -1,0 +1,59 @@
+{{- $asin := .Get "asin" -}}
+{{- $text := .Get "text" | default "Ver en Amazon" -}}
+{{- $tag := "smartgearh0cf-20" -}}
+{{- $url := printf "https://www.amazon.com/dp/%s?tag=%s" $asin $tag -}}
+
+<div class="amazon-card">
+  <a href="{{ $url }}" target="_blank" rel="nofollow noopener sponsored" class="amazon-link">
+    <img 
+      src="https://images-na.ssl-images-amazon.com/images/P/{{ $asin }}.jpg" 
+      alt="Producto Amazon" 
+      class="amazon-img">
+    <div class="amazon-info">
+      <button class="amazon-btn">{{ $text }}</button>
+    </div>
+  </a>
+</div>
+
+<style>
+.amazon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #e3e3e3;
+  border-radius: 12px;
+  padding: 10px;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.15s ease-in-out;
+  margin: 1rem 0;
+  width: 100%;
+  max-width: 340px;
+}
+.amazon-card:hover {
+  transform: scale(1.02);
+}
+.amazon-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  max-height: 280px;
+}
+.amazon-info {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+.amazon-btn {
+  background-color: #FF9900;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  padding: 10px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.amazon-btn:hover {
+  background-color: #E68A00;
+}
+</style>

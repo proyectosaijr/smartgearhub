@@ -35,6 +35,46 @@
     }
 
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T0H1G3Q27G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-T0H1G3Q27G');
+</script>
+
+
+<script>
+(function() {
+  function trackAmazonLinks() {
+    const amazonLinks = document.querySelectorAll('a[href*="amazon."]');
+    amazonLinks.forEach(link => {
+      
+      if (link.dataset.tracked === "true") return;
+      link.dataset.tracked = "true";
+
+      link.addEventListener('click', () => {
+        console.log("🔗 Amazon click detectado:", link.href);
+        
+        gtag('event', 'affiliate_click', {
+          event_category: 'Amazon Affiliate',
+          event_label: link.href
+        });
+
+        
+        
+        
+        
+        
+        
+      });
+    });
+  }
+
+  
+  window.addEventListener('load', trackAmazonLinks);
+})();
+</script>
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -94,11 +134,33 @@
 </header>
 
 <ul class="terms-tags">
+    <li>
+        <a href="http://localhost:1313/tags/comparativa/">comparativa <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/gadgets/">gadgets <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/gaming/">gaming <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/rese%C3%B1a/">reseña <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/router/">router <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/tecnolog%C3%ADa/">tecnología <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
+    <li>
+        <a href="http://localhost:1313/tags/wifi7/">wifi7 <sup><strong><sup>1</sup></strong></sup> </a>
+    </li>
 </ul>
     </main>
     
 <footer class="footer">
         <span>&copy; 2025 <a href="http://localhost:1313/">SmartGearHub</a></span> · 
+        SmartGearHub participa en el Programa de Afiliados de Amazon. Como afiliado, puedo recibir comisiones por compras calificadas realizadas a través de los enlaces de este sitio. · 
 
     <span>
         Powered by

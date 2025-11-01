@@ -1,0 +1,18 @@
+<div class="amazon-product">
+  <a href="https://www.amazon.com/dp/{{ .Get "asin" }}?tag=smartgearh0cf-20" 
+     target="_blank" 
+     rel="noopener noreferrer">
+    <img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ .Get "asin" }}&Format=_SL400_&ID=AsinImage&MarketPlace=US"
+         alt="{{ .Get "text" }}"
+         loading="lazy"
+         style="max-width: 300px; border-radius: 10px; display: block; margin: 10px auto;">
+  </a>
+  <div style="text-align: center; margin-top: 6px;">
+    <a href="https://www.amazon.com/dp/{{ .Get "asin" }}?tag=smartgearh0cf-20" 
+       target="_blank" 
+       rel="noopener noreferrer"
+       style="text-decoration: none; color: #0077cc; font-weight: 600;">
+       {{ .Get "text" }}
+    </a>
+  </div>
+</div>
