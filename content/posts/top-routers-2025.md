@@ -53,6 +53,8 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🥉 Netgear Nighthawk XR1000
+👉 [Ver precio en Amazon](https://www.amazon.com/dp/B08FWNNWTB/?tag=smartgearh0cf-20)
+
 ![Netgear Nighthawk XR1000](/img/routers/netgear-xr1000.jpg)
 
 **Ideal para:** jugadores de consola (PS5, Xbox).  
@@ -70,6 +72,8 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 💡 MSI RadiX AXE6600
+👉 [Ver precio en Amazon](https://www.amazon.com/dp/B0BTQ637LJ/?tag=smartgearh0cf-20)
+
 ![MSI RadiX AXE6600](/img/routers/msi-radix-axe6600.jpg)
 
 **Ideal para:** setups RGB o gamers de PC.  
@@ -87,6 +91,8 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🧩 Tenda RX27 Pro
+👉 [Ver precio en Amazon](https://www.amazon.com/dp/B0BJVRVRLD/?tag=smartgearh0cf-20)
+
 ![Tenda RX27 Pro](/img/routers/tenda-rx27pro.jpg)
 
 **Ideal para:** gamers con presupuesto ajustado.  
