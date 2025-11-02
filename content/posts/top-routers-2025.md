@@ -15,7 +15,7 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🥇 ASUS ROG Rapture GT-AXE16000
-![ASUS ROG Rapture GT-AXE16000](https://images.unsplash.com/photo-1587202372775-98927f2a8b9e?auto=format&fit=crop&w=800&q=60)
+![ASUS ROG Rapture GT-AXE16000](/img/routers/asus-gt-axe16000.jpg)
 
 **Ideal para:** jugadores competitivos y streamers exigentes.  
 **Precio estimado:** $599 USD
@@ -34,7 +34,7 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🥈 TP-Link Archer BE800
-![TP-Link Archer BE800](https://images.pexels.com/photos/6078128/pexels-photo-6078128.jpeg?auto=compress&cs=tinysrgb&w=800)
+![TP-Link Archer BE800](/img/routers/tp-link-be800.jpg)
 
 **Ideal para:** hogares grandes y gamers multitarea.  
 **Precio estimado:** $399 USD
@@ -53,7 +53,7 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🥉 Netgear Nighthawk XR1000
-![Netgear Nighthawk XR1000](https://images.unsplash.com/photo-1611866583204-73b0b4e1ce9e?auto=format&fit=crop&w=800&q=60)
+![Netgear Nighthawk XR1000](/img/routers/netgear-xr1000.jpg)
 
 **Ideal para:** jugadores de consola (PS5, Xbox).  
 **Precio estimado:** $349 USD
@@ -70,7 +70,7 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 💡 MSI RadiX AXE6600
-![MSI RadiX AXE6600](https://images.pexels.com/photos/3846511/pexels-photo-3846511.jpeg?auto=compress&cs=tinysrgb&w=800)
+![MSI RadiX AXE6600](/img/routers/msi-radix-axe6600.jpg)
 
 **Ideal para:** setups RGB o gamers de PC.  
 **Precio estimado:** $289 USD
@@ -87,7 +87,7 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🧩 Tenda RX27 Pro
-![Tenda RX27 Pro](https://images.pexels.com/photos/3945652/pexels-photo-3945652.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Tenda RX27 Pro](/img/routers/tenda-rx27pro.jpg)
 
 **Ideal para:** gamers con presupuesto ajustado.  
 **Precio estimado:** $159 USD
