@@ -15,6 +15,8 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 ---
 
 ## 🥇 ASUS ROG Rapture GT-AXE16000
+👉 [Ver precio en Amazon](https://www.amazon.com/dp/B0BQ41LDQ3/?tag=smartgearh0cf-20)
+
 ![ASUS ROG Rapture GT-AXE16000](/img/routers/asus-gt-axe16000.jpg)
 
 **Ideal para:** jugadores competitivos y streamers exigentes.  
@@ -29,11 +31,11 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 - Costoso.  
 - Requiere espacio amplio para su tamaño.
 
-👉 *Ver disponibilidad en línea (ASUS o Amazon)*
-
 ---
 
 ## 🥈 TP-Link Archer BE800
+👉 [Ver precio en Amazon](https://www.amazon.com/dp/B0C4VZWTM7/?tag=smartgearh0cf-20)
+
 ![TP-Link Archer BE800](/img/routers/tp-link-be800.jpg)
 
 **Ideal para:** hogares grandes y gamers multitarea.  
@@ -47,8 +49,6 @@ No necesitas ser técnico para entender las diferencias — solo elegir el que s
 **Desventajas:**
 - Interfaz limitada para usuarios avanzados.  
 - No incluye puertos 10G.
-
-👉 *Ver más en la web oficial*
 
 ---
 
