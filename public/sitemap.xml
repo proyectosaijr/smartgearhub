@@ -4,28 +4,46 @@
   <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/rese%C3%B1as/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/router-gaming/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/tecnolog%C3%ADa/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/posts/top-routers-2025/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/tags/wifi7/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
