@@ -133,4 +133,3 @@ El **Netgear RAXE500** cubre más de 250 m² y soporta múltiples conexiones sim
 > _SmartGearHub participa en el Programa de Afiliados de Amazon.  
 > Si compras a través de nuestros enlaces, podríamos recibir una pequeña comisión sin costo adicional para ti._  
 >  
-> _Última actualización: {{< now >}}._
