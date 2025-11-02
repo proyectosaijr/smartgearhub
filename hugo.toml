@@ -12,7 +12,12 @@ pagerSize = 10
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
   comments = false
+  env = "production"
+
+[params.analytics.google]
+  SiteVerificationTag = "S8CwUyDsEun_cdnZ5ZC0EeF33z212gHg1vQX0Is-JNY"
 
 [params.footer]
   text = "SmartGearHub participa en el Programa de Afiliados de Amazon. Como afiliado, puedo recibir comisiones por compras calificadas realizadas a través de los enlaces de este sitio."
@@ -41,3 +46,8 @@ pagerSize = 10
   name = "Guías"
   url = "/tags/guia/"
   weight = 4
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
